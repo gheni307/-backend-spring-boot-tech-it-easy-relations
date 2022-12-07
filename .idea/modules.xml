@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/_backend-spring-boot-tech-it-easy-relations.iml" filepath="$PROJECT_DIR$/.idea/_backend-spring-boot-tech-it-easy-relations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/backend-spring-boot-tech-it-easy-relations/backend-spring-boot-tech-it-easy-relations.iml" filepath="$PROJECT_DIR$/backend-spring-boot-tech-it-easy-relations/backend-spring-boot-tech-it-easy-relations.iml" />
+    </modules>
+  </component>
+</project>
